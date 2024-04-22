@@ -1,4 +1,4 @@
-# Awesome Voice Active Discord
+# Awesome Voice Active Discords
 A curated list of awesome voice active Discord communities for programmers
 
 ## Why does this exist
