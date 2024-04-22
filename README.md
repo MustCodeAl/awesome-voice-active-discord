@@ -12,19 +12,19 @@ Language: English
 
 
 
-https://discord.gg/arduino-420594746990526466
-https://discord.gg/brackeys
-https://discord.gg/csharp
-https://discord.gg/fireship
-https://discord.gg/gamedev
-https://discord.gg/gamemaker
-https://discord.gg/golang
-https://discord.gg/hd
-https://discord.gg/homelab
-https://discord.gg/pcmr
-https://discord.gg/program
-https://discord.gg/python
-https://discord.gg/rust-lang-community
-https://discord.gg/tccpp
-https://discord.gg/unixporn
-https://discord.gg/web
+* https://discord.gg/arduino-420594746990526466
+* https://discord.gg/brackeys
+* https://discord.gg/csharp
+* https://discord.gg/fireship
+* https://discord.gg/gamedev
+* https://discord.gg/gamemaker
+* https://discord.gg/golang
+* https://discord.gg/hd
+* https://discord.gg/homelab
+* https://discord.gg/pcmr
+* https://discord.gg/program
+* https://discord.gg/python
+* https://discord.gg/rust-lang-community
+* https://discord.gg/tccpp
+* https://discord.gg/unixporn
+* https://discord.gg/web
