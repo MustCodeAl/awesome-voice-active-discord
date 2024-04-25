@@ -36,3 +36,13 @@ Language: English
 * https://discord.gg/tccpp
 * https://discord.gg/unixporn
 * https://discord.gg/web
+* https://discord.gg/together-java-272761734820003841
+
+* https://discord.gg/gamemaker
+* https://discord.gg/homelab
+* https://discord.gg/tryhardsecurity
+
+
+* https://discord.com/invite/4JBkykG
+* https://discord.com/invite/beczNYP
+* https://discord.gg/KM4mPT3Hux
