@@ -17,9 +17,9 @@ I will keep a list of the most voice active servers as long as I'm active on dis
 
 
 * https://discord.gg/arduino-420594746990526466
-* https://discord.gg/brackeys
-* https://discord.gg/csharp
-* https://discord.gg/fireship
+* [__Brackeys__]https://discord.gg/brackeys
+* [__CSharp__] https://discord.gg/csharp
+* [__Fireship__] https://discord.gg/fireship
 * [__Game Dev League__](https://discord.gg/gamedev) (https://gamedevleague.com/) \
 Notable Channels: `#events`, `#unity`, `#unreal-engine`, `#gamemaker-studio`, `#open-source`, `#löve-dev`, `#monogame-and-libgdx-dev`, `#godot`, `#web-dev`, `#cryengine-dev`, `#vr-dev`
 Language: English
