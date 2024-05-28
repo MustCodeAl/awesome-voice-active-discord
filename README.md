@@ -72,6 +72,21 @@ Language: English
 
 ---
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/godotengine.webp">
+
+[__Godot Engine__](https://discord.com/invite/4JBkykG) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://godotengine.org/community/) \
+Notable Channels: `#main-chat`, `#frontend-chat`, `#backend-chat`, `#game-dev-chat`, `#mathematics-chat`, `#systems-chat`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
+
+---
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gotdotengine.webp">
+
+[__Graphics Programming__](https://discord.com/invite/jzvnsqHSxd) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/GraphicsProgramming/) \
+Notable Channels: `#main-chat`, `#frontend-chat`, `#backend-chat`, `#game-dev-chat`, `#mathematics-chat`, `#systems-chat`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
+
+---
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hiddendevs.webp">
 
@@ -161,6 +176,5 @@ Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming
 Language: English  
 
 ---
-* https://discord.com/invite/4JBkykG
+
 * https://discord.com/invite/beczNYP
-* https://discord.gg/KM4mPT3Hux
