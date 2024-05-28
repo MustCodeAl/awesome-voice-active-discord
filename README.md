@@ -16,18 +16,51 @@ I will keep a list of the most voice active servers as long as I'm active on dis
 
 
 
-* [__Arduino__](https://discord.gg/arduino-420594746990526466)
-* [__Brackeys__](https://discord.gg/brackeys)
-* [__CSharp__](https://discord.gg/csharp)
-* [__Fireship__](https://discord.gg/fireship)
-* [__Game Dev League__](https://discord.gg/gamedev) (https://gamedevleague.com/) \
-Notable Channels: `#events`, `#unity`, `#unreal-engine`, `#gamemaker-studio`, `#open-source`, `#löve-dev`, `#monogame-and-libgdx-dev`, `#godot`, `#web-dev`, `#cryengine-dev`, `#vr-dev`
+* <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arduino.webp">
+[__Arduino__](https://discord.gg/arduino-420594746990526466) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://arduino.cc/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/BluLightShow/arduino-bot) \
+Notable Channels: `#arduino-discussion`, `#product-help`, `#coding-help`, `#pcb-help`,`#adafruit-help`, `#show-off-your-ideas`, `#project-ideas` \
 Language: English
-* https://discord.gg/gamemaker
-* https://discord.gg/golang
+
+  
+* <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/brackeys.webp">
+[__Brackeys__](https://discord.com/invite/brackeys) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Brackeys) \
+Notable Channels: `#tutorials_and_articles`, `#unity`, `#programming`, `#mobile`, `#code_optimization`, `#shaders`, `#game_jams`, `#art`, `#audio`, `#game_design`, `#marketing`, `#collaboration` \
+Language: English
+
+* <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_sharp.webp">
+[__C#__](https://discord.com/invite/csharp) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](http://discord-csharp.github.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/discord-csharp) \
+Notable Channels: `#general_csharp`, `#beginner_questions`, `#projects`, `#code-review`, `#career-talk`, `#web`, `#gui`, `#game-dev`, `#database`, `#architecture-and-tooling`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
+
+* [__Fireship__](https://discord.gg/fireship)
+
+* <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/game_dev_league.webp">
+[__Game Dev League__](https://discord.com/invite/gamedev) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://gamedevleague.com/) \
+Notable Channels: `#events`, `#unity`, `#unreal-engine`, `#gamemaker-studio`, `#open-source`, `#löve-dev`, `#monogame-and-libgdx-dev`, `#godot`, `#web-dev`, `#cryengine-dev`, `#vr-dev`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
+
+* <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamemaker.webp">
+[__GameMaker__](https://discord.gg/gamemaker) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/gamemaker/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/GameMakerDiscord) \
+Notable Channels: `#gamedev`, `#technical`, `#game-design`, `#3d_in_gamemaker`, `#shaders`, `#netcode`, `#beta_2_3`, `#help`, `#gamemaker_showcase` \
+Language: English
+
+* <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/discord_gophers.webp">
+[__Discord Gophers__](https://discord.gg/golang) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bwmarrin/discordgo)\
+Notable Channels: `#golang`, `#job-market-only`, `#go-art-only`, `#go-news-only`, `#discordgo`, `#disgord`, `#dca`, `#arikawa`\
+Language: English
+
 * https://discord.gg/hd
-* https://discord.gg/homelab
-* https://discord.gg/pcmr
+  
+* <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homelab.webp">
+[__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/homelab/) \
+Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
+Language: English, Deutsch, français, Nederlands \
+
+* <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pc_master_race.webp">
+[__PC MASTER RACE__](https://discord.com/invite/pcmr) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/pcmasterrace/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/izy521/Sera-PCMR) \
+Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
+Language: English
+
 * https://discord.gg/program
 * https://discord.gg/python
 * https://discord.gg/rust-lang-community
