@@ -61,7 +61,7 @@ https://discord.gg/hd
 
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/homelab/) \
 Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
-Language: English, Deutsch, français, Nederlands \
+Language: English, Deutsch, français, Nederlands 
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pc_master_race.webp">
 
