@@ -108,7 +108,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/rust-lang-community.webp">
 
-[__Rust Programming Language Community__](https://discord.com/invite/rust-lang-community)
+[__Rust Programming Language Community__](https://discord.com/invite/rust-lang-community) \
 Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
 Language: English  
 
@@ -132,7 +132,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tryhardsecurity.webp">
 
-[__TryHardSecurity__](https://discord.com/invite/tryhardsecurity)
+[__TryHardSecurity__](https://discord.com/invite/tryhardsecurity) \
 Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
 Language: English  
 
@@ -148,7 +148,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/webdev.webp">
 
-[__Web Developement and Design__](https://discord.com/invite/web)
+[__Web dev and web design__](https://discord.com/invite/web) \
 Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
 Language: English  
 
@@ -156,7 +156,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/woc.webp">
 
-[__World of Coding__](https://discord.com/invite/program)
+[__World of Coding__](https://discord.com/invite/program) \
 Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
 Language: English  
 
