@@ -59,8 +59,13 @@ Language: English
 Notable Channels: `#golang`, `#job-market-only`, `#go-art-only`, `#go-news-only`, `#discordgo`, `#disgord`, `#dca`, `#arikawa`\
 Language: English
 
-https://discord.gg/hd
-  
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hiddendevs.webp">
+
+[__Hidden Devs__](https://discord.com/invite/hd) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://hiddendevs.com/) \
+Notable Channels: `#code-help`, `#advanced-code`, `#building`, `#dev-discussion`, `#code-discussion`\
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homelab.webp">
 
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/homelab/) \
@@ -76,8 +81,7 @@ Language: English, Deutsch, français, Nederlands
 Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
 Language: English
 
-* https://discord.gg/program
-  
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/python.webp">
 
 [__Python__](https://discord.com/invite/python) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://pythondiscord.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/python-discord/) \
@@ -109,6 +113,13 @@ Language: English \
 <br>
 
 * https://discord.gg/web
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/woc.webp">
+
+[__World of Coding__](https://discord.com/invite/program)
+Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
+Language: English  
+
 * https://discord.com/invite/4JBkykG
 * https://discord.com/invite/beczNYP
 * https://discord.gg/KM4mPT3Hux
