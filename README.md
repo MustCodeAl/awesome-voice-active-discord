@@ -56,15 +56,21 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/discord_gophers.webp">
 
 [__Discord Gophers__](https://discord.gg/invite/golang) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bwmarrin/discordgo)\
-Notable Channels: `#golang`, `#job-market-only`, `#go-art-only`, `#go-news-only`, `#discordgo`, `#disgord`, `#dca`, `#arikawa`\
+Notable Channels: `#golang`, `#job-market-only`, `#go-art-only`, `#go-news-only`, `#discordgo`, `#disgord`, `#dca`, `#arikawa`
 Language: English
+<br>
 
-
+---
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hiddendevs.webp">
 
 [__Hidden Devs__](https://discord.com/invite/hd) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://hiddendevs.com/) \
-Notable Channels: `#code-help`, `#advanced-code`, `#building`, `#dev-discussion`, `#code-discussion`\
+Notable Channels: `#code-help`, `#advanced-code`, `#building`, `#dev-discussion`, `#code-discussion` \
 Language: English
+<br>
+
+
+
+---
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homelab.webp">
 
