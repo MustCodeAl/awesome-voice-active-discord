@@ -80,7 +80,7 @@ Language: English
 
 ---
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gotdotengine.webp">
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/graphicsprogramming.webp">
 
 [__Graphics Programming__](https://discord.com/invite/jzvnsqHSxd) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/GraphicsProgramming/) \
 Notable Channels: `#main-chat`, `#frontend-chat`, `#backend-chat`, `#game-dev-chat`, `#mathematics-chat`, `#systems-chat`, __[`so much more`](badges.md#so-much-more)__ \
