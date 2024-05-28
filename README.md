@@ -87,6 +87,7 @@ Language: English, Deutsch, français, Nederlands
 Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
 Language: English
 
+----
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/python.webp">
 
