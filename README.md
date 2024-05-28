@@ -35,7 +35,11 @@ Language: English
 Notable Channels: `#general_csharp`, `#beginner_questions`, `#projects`, `#code-review`, `#career-talk`, `#web`, `#gui`, `#game-dev`, `#database`, `#architecture-and-tooling`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
-[__Fireship__](https://discord.gg/invite/fireship)
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fireship.webp">
+
+[__Fireship__](https://discord.com/invite/fireship) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://fireship.io/) \
+Notable Channels: `#main-chat`, `#frontend-chat`, `#backend-chat`, `#game-dev-chat`, `#mathematics-chat`, `#systems-chat`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/game_dev_league.webp">
 
