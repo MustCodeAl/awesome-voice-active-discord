@@ -61,7 +61,10 @@ https://discord.gg/hd
 
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/homelab/) \
 Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
-Language: English, Deutsch, français, Nederlands 
+Language: English, Deutsch, français, Nederlands
+<br>
+
+---
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pc_master_race.webp">
 
@@ -78,16 +81,29 @@ Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#compute
 Language: English
 
 * https://discord.gg/rust-lang-community
-*
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_c_and_c_plus_plus.webp">
 
 [__Together C & C++__](https://discord.gg/invite/tccpp) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Headline/discord-compiler-bot) \
 Notable Channels: `#c_general`, `#cpp_general`, `#assembly`, `#code_review`, `#gamedev`, `#graphics`, `#audio`, `#programming_environment`, `#collaboration`, `#unix`, `#other_langs_help`, `#math` \
 Language: English
 
-* https://discord.gg/together-java-272761734820003841
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_java.webp">
+
+[__Together Java__](https://discord.gg/together-java-272761734820003841) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Together-Java) \
+Notable Channels: `#geek-speak`, `#java-help`, `#android-help`, `#framework-help`, `#c_cpp_help`, `#algorithms_help`, `#architecture-help`, `#code_review`, `#ui_ux_help`\
+Language: English
+
 * https://discord.gg/tryhardsecurity
-* https://discord.gg/unixporn
+  
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_unixporn.webp">
+
+[__r/unixporn__](https://discord.gg/unixporn) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/unixporn/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/unixporn) \
+Notable Channels: `#showcase`, `#ricing-theming`, `#tools`, `#wallpapers`, `#tech-support`, `#programming`, `#hardware` \
+Language: English \
+<br>
+
 * https://discord.gg/web
 * https://discord.com/invite/4JBkykG
 * https://discord.com/invite/beczNYP
