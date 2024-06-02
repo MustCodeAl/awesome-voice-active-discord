@@ -2,7 +2,7 @@
 A curated list of voice chat active [discord](discord.gg) communities for developers, game engineers, hackers, and tech enthusiasts
 
 ## Why does this exist
-While this is a nice [list](https://github.com/mhxion/awesome-discord-communities) it doesn't have a seperate list for the servers with active voice chats. It's alot more enjoyable to interact with other humans during learning, studying, and working and get support then it is to only communicate through chat messages. Please be respectful in these servers as there is no where near as many users as there are in gaming and anime communities, because many individials are introverted
+While this is a nice [list](https://github.com/mhxion/awesome-discord-communities) it doesn't have a seperate list for the servers with active voice chats. It's alot more enjoyable to interact with other humans during learning, studying, and working and get support then it is to communicate only through chat messages. Please be respectful in these servers as there is no where near as many users as there are in gaming and anime communities, because many individuals are introverted
 
 
 
