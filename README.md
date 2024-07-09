@@ -170,6 +170,12 @@ Language: English
 ---
 
 * https://discord.com/invite/beczNYP
+* https://discord.gg/theprimeagen
+* https://discord.gg/piratesoftware
+* https://discord.gg/owlsec
+* https://discord.gg/WQybKgZcyx
+* https://discord.gg/VmsHPuxfxS
+* https://discord.gg/2a9epGzUD9
 
 
 I will keep a list of the most voice active servers as long as I'm active on discord, meaning the servers in this list have periods atleast every other month where atleast a few people join the voice channels and talk to one another about compuers and technology related topics and maybe get on every day. So if you know a server and would like to contribute, please make a pull.
