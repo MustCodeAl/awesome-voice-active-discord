@@ -171,7 +171,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vxcore.png">
 
-[__VX Core Energy - A small but notable server__](https://discord.gg/XDBXVredrm) \
+[__VX Core Energy - A small but active server__](https://discord.gg/XDBXVredrm) \
 Notable Channels: `#general`, `#ravenfield-mods` \
 Language: English  
 
