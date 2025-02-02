@@ -166,6 +166,7 @@ Language: English
 [__World of Coding__](https://discord.com/invite/program) \
 Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
 Language: English  
+
 ---
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vxcore.png">
