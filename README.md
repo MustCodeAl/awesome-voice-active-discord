@@ -97,6 +97,14 @@ Language: English, Deutsch, français, Nederlands
 
 ---
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/owlsec.webp">
+
+[__OwlSec__](https://discord.gg/owlsec) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://owlsec.ai/) \
+Notable Channels: `#chat`, `#help-me`, `#free-resources`, `#iot-and-networking`, `#the-commons`, `#coding-and-scripting`, `#certs-and-career` \
+Language: English
+
+---
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pc_master_race.webp">
 
 [__PC MASTER RACE__](https://discord.com/invite/pcmr) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/pcmasterrace/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/izy521/Sera-PCMR) \
@@ -145,6 +153,14 @@ Language: English
 
 ---
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/theprimeagen.webp">
+
+[__Theprimeagen__](https://discord.com/invite/theprimeagen) \
+Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
+Language: English  
+
+---
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_unixporn.webp">
 
 [__r/unixporn__](https://discord.com/invite/unixporn) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/unixporn/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/unixporn) \
@@ -170,10 +186,9 @@ Language: English
 ---
 
 * https://discord.com/invite/beczNYP
-* https://discord.gg/theprimeagen
 * https://discord.gg/piratesoftware
-* https://discord.gg/owlsec
 * https://discord.gg/gentoolinux
+* https://discord.gg/uD2BgbN87f
 * https://discord.gg/WQybKgZcyx
 * https://discord.gg/VmsHPuxfxS
 * https://discord.gg/2a9epGzUD9
